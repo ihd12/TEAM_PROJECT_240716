@@ -1,0 +1,6 @@
+mid,mpw,confirm_mpw,email,nickname,phone,point,role,address
+1111,$2a$10$./nQb.VBMxs7mkLCoksy0.be3o/wRWA1/Lfn793Djkrl88yDXj6MS,1111,1111@naver.com,1111,1111,0,USER,""
+11212,112312,1231231,123123@31,12345,123123,0,USER,123123
+2222,$2a$10$m8YkwjgZ/lDcn10itsmh4.8RF9URFYg2GMu0dRLwog7qBtJhv5dLS,2222,2222@naver.com,2222,2222,0,USER,""
+3333,$2a$10$DSPQ/m7fyOjoIFFnkh.Vk.n8UEkdFE51dorSCkH1//YtcbOHxVIC6,3333,3333@naver.com,12344,3333,0,USER,""
+admin,$2a$10$Fj8p1rw1Ebuvh.evzOOlnOISIOR81vb5tuxbvMN/9ufglA1rVvkEm,admin,admin@admin.com,admin,01012345678,0,ADMIN,""
